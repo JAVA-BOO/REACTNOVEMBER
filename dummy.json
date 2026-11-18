@@ -1,0 +1,17 @@
+{
+  "user": [
+    {
+      "username": "asds",
+      "email": "fatokunbov@gmail.com",
+      "password": "WEsfgd1@",
+      "id": "2Lj9v6Ww6eo"
+    },
+    {
+      "username": "adeola",
+      "email": "adeola@gmail.com",
+      "password": "Adeola@123",
+      "id": "5_oXudcHLvw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
